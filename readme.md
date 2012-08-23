@@ -1,6 +1,6 @@
 # dyMotd
 
-This repository contains the scripts for dyMotd. Please take a moment to read the folowing informations...
+This repository contains the scripts for dyMotd. Please take a moment to read the following informations...
 
 ________
 
