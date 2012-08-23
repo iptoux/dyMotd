@@ -1,15 +1,15 @@
 # dyMotd
 
 This repository contains the scripts for dyMotd. Please take a moment to read the folowing informations...
-<center>
+________
 
 ![user](http://www.abload.de/img/loggedin_userjou3s.jpg)
 
 ![root](http://www.abload.de/img/loggedin_rootevug6.jpg)
 
-</center>
+________
 
-# Notes
+## Notes
 
 Since there is no automatic installation, it must be done by hand. I'm sorry for that but it will come later. For a full guide to install this script, go to the wiki on [github.com][].
 
@@ -30,33 +30,33 @@ You should have received a copy of the GNU General Public License along with thi
 For a full guide to install this script, go to the wiki on [github.com][].
 
 
-## Changelog
+### Changelog
 
-### 19.08.2012 - v0.7.8
- * added dynamic display "state of services" too root (you can set it in config file)
- * added display of dynamic statement (loaded from config file)
- * ending rewrite of code
+#### 19.08.2012 - v0.7.8
+> added dynamic display "state of services" too root (you can set it in config file)
+> added display of dynamic statement (loaded from config file)
+> ending rewrite of code
 
-### 18.08.2012 - v0.7.2
+#### 18.08.2012 - v0.7.2
 
  * added dynamic config settings in external config file
  * begin full rewrite of script
  * added displaying state of services
  
-### 17.08.2012 - v0.6.5
+#### 17.08.2012 - v0.6.5
 
  * added/edited colors
  * added ssh failed logins
  * added dynamic user mode
  
-### 16.08.2012 - v0.5.0 (original v1.0 by author)
+#### 16.08.2012 - v0.5.0 (original v1.0 by author)
 
  * downloaded script
  * script review and analyze
  * remove not used variables
  * first tunings
 
- ## ToDo
+### ToDo
 
  * add dynamic header (hostname)
  * add install script
