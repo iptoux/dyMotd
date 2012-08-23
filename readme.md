@@ -1,13 +1,15 @@
 # dyMotd
 
 This repository contains the scripts for dyMotd. Please take a moment to read the folowing informations...
+
 ________
 
 ![user](http://www.abload.de/img/loggedin_userjou3s.jpg)
+________
 
 ![root](http://www.abload.de/img/loggedin_rootevug6.jpg)
-
 ________
+
 
 ## Notes
 
@@ -33,9 +35,9 @@ For a full guide to install this script, go to the wiki on [github.com][].
 ### Changelog
 
 #### 19.08.2012 - v0.7.8
-> added dynamic display "state of services" too root (you can set it in config file)
-> added display of dynamic statement (loaded from config file)
-> ending rewrite of code
+> * added dynamic display "state of services" too root (you can set it in config file)
+> * added display of dynamic statement (loaded from config file)
+> * ending rewrite of code
 
 #### 18.08.2012 - v0.7.2
 
