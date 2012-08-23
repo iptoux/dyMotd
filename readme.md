@@ -9,7 +9,7 @@ This repository contains the scripts for dyMotd, this is an simple script that d
 
 # Notes
 
-Since there is no automatic installation, it must be done by hand. I'm sorry for that but it will come later.
+Since there is no automatic installation, it must be done by hand. I'm sorry for that but it will come later. For a full guide to install this script, go to the wiki on [github.com][].
 
 ## License
 
@@ -20,9 +20,12 @@ I have take this script under the GNU. For more info abou the GNU license read `
 
 For a full guide to install this script, go to the wiki on [github.com][].
 
-## Misc
+## Changelog
 
-Open a [Pull Request] for new features []
+### 19.08.2012 - v0.7.8
+    + added dynamic display "state of services" too root (you can set it in config file)
+    + added display of dynamic statement (loaded from config file)
+    + ending rewrite of code
 
 
 [mewbies.com]:         http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm
