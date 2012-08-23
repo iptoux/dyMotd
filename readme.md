@@ -19,6 +19,6 @@ For a full guide to install this script, go to the wiki on [github.com][].
 
 
 
-[mewbies.com]:         http://mewbies.com/
+[mewbies.com]:         http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm
 [github.com]:         http://github.com/iptoux/dyMotd/wiki
 
