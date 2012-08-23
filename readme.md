@@ -2,6 +2,7 @@
 
 This repository contains the scripts for dyMotd, this is an simple script that displays on user/root login an dynamic screen with system and user informations.
 
+![user](http://www.abload.de/img/loggedin_userjou3s.jpg)
 
 # Notes
 
