@@ -4,7 +4,7 @@ This repository contains the scripts for dyMotd, this is an simple script that d
 
 ![user](http://www.abload.de/img/loggedin_userjou3s.jpg)
 
-![root](http://www.abload.de/img/http://www.abload.de/img/loggedin_rootevug6.jpg)
+![root](http://www.abload.de/img/loggedin_rootevug6.jpg)
 
 
 # Notes
