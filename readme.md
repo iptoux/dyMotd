@@ -4,6 +4,9 @@ This repository contains the scripts for dyMotd, this is an simple script that d
 
 ![user](http://www.abload.de/img/loggedin_userjou3s.jpg)
 
+![root](http://www.abload.de/img/http://www.abload.de/img/loggedin_rootevug6.jpg)
+
+
 # Notes
 
 Since there is no automatic installation, it must be done by hand. I'm sorry for that but it will come later.
@@ -17,9 +20,11 @@ I have take this script under the GNU. For more info abou the GNU license read `
 
 For a full guide to install this script, go to the wiki on [github.com][].
 
+## Misc
 
+Open a [Pull Request] for new features []
 
 
 [mewbies.com]:         http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm
 [github.com]:         http://github.com/iptoux/dyMotd/wiki
-
+[Pull Request]:         https://github.com/iptoux/dyMotd/pulls
