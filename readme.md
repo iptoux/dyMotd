@@ -34,29 +34,27 @@ For a full guide to install this script, go to the wiki on [github.com][].
 
 ### Changelog
 
-#### 19.08.2012 - v0.7.8
+##### 19.08.2012 - v0.7.8
 > * added dynamic display "state of services" too root (you can set it in config file)
 > * added display of dynamic statement (loaded from config file)
 > * ending rewrite of code
 
-#### 18.08.2012 - v0.7.2
-
- * added dynamic config settings in external config file
- * begin full rewrite of script
- * added displaying state of services
+##### 18.08.2012 - v0.7.2
+> * added dynamic config settings in external config file
+> * begin full rewrite of script
+> * added displaying state of services
  
-#### 17.08.2012 - v0.6.5
-
- * added/edited colors
- * added ssh failed logins
- * added dynamic user mode
+##### 17.08.2012 - v0.6.5
+> * added/edited colors
+> * added ssh failed logins
+> * added dynamic user mode
  
-#### 16.08.2012 - v0.5.0 (original v1.0 by author)
+##### 16.08.2012 - v0.5.0 (original v1.0 by author)
+> * downloaded script
+> * script review and analyze
+> * remove not used variables
+> * first tunings
 
- * downloaded script
- * script review and analyze
- * remove not used variables
- * first tunings
 
 ### ToDo
 
