@@ -30,7 +30,7 @@ You should have received a copy of the GNU General Public License along with thi
 ## Install
 
 For a full guide to install this script, go to the wiki on [github.com][].
-
+______
 
 ### Changelog
 
@@ -54,6 +54,7 @@ For a full guide to install this script, go to the wiki on [github.com][].
 > * script review and analyze
 > * remove not used variables
 > * first tunings
+
 ______
 
 ### ToDo
