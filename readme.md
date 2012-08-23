@@ -9,10 +9,11 @@ Since there is no automatic installation, it must be done by hand. I'm sorry for
 
 ## License
 
-This script is an copy/rewrite of the original by mewbies.com, please take a look at the changelog (end of this site), to learn more about the change and improvements.
+This script is an copy/rewrite of the original by [mewbies.com][], please take a look at the changelog (end of this site), to learn more about the change and improvements.
+I have take this script under the GNU. For more info abou the GNU license read `LICENSE` in root of the repository.
 
-## Preparations
+## Install
 
-Make sure you have installed an linux system based on Debian >= 5
+For a full guide to install this script, go to the wiki on [github.com][].
 
-## Prerequisites
+
