@@ -17,3 +17,8 @@ I have take this script under the GNU. For more info abou the GNU license read `
 For a full guide to install this script, go to the wiki on [github.com][].
 
 
+
+
+[mewbies.com]:         http://mewbies.com/
+[github.com]:         http://github.com/iptoux/dyMotd/wiki
+
