@@ -10,6 +10,15 @@ ________
 ![root](http://www.abload.de/img/loggedin_rootevug6.jpg)
 ________
 
+## Features
+
+ * compact, clean and fast way to get system an userinformations
+ * fully configurable
+ * easy to use
+ * multuser support
+ * shows last login, uptime, memory and cpu usage, disk quota, used services and many more!
+ * many many things planned :)
+ * Up2Date!
 
 ## Notes
 
@@ -63,6 +72,7 @@ ______
  * add install script
  * display count of new mails (only local)
  * setting colors in config file
+ * adding plugin function, to add own stats to the output. (wheater, temperatures, ... )
  
  
  
