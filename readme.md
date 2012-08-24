@@ -2,6 +2,13 @@
 
 This repository contains the scripts for dyMotd. Please take a moment to read the following informations...
 
+## What is it?
+
+dyMotd is a compact, clean and fast way to get system an user informations when you log on you linux machine. You will get many informations and configure it easy.
+Because this script is extremely helpful you can add an alias in your users .bashrc or set it global for all users. The alias `clean` will clear the screen and dispaly
+the dyMotd script.
+
+
 ________
 
 ![user](http://www.abload.de/img/loggedin_userjou3s.jpg)
@@ -9,6 +16,7 @@ ________
 
 ![root](http://www.abload.de/img/loggedin_rootevug6.jpg)
 ________
+
 
 ## Features
 
@@ -22,7 +30,7 @@ ________
 
 ## Notes
 
-Since there is no automatic installation, it must be done by hand. I'm sorry for that but it will come later. For a full guide to install this script, go to the wiki on [github.com][].
+Since there is no automatic installation, it must be done by hand. I'm sorry for that but it will come later. For a full guide to install this script, go to the wiki [How to install dyMotd?][].
 
 
 ## License
@@ -38,7 +46,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Install
 
-For a full guide to install this script, go to the wiki on [github.com][].
+For a full guide to install this script, go to the wiki [How to install dyMotd?][].
 ______
 
 ### Changelog
@@ -72,11 +80,11 @@ ______
  * add install script
  * display count of new mails (only local)
  * setting colors in config file
- * adding plugin function, to add own stats to the output. (wheater, temperatures, ... )
+ * adding plugin function, to add own stats to the output. (weather, temperatures, ... )
  
  
  
  
 [mewbies.com]:         http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm
-[github.com]:         http://github.com/iptoux/dyMotd/wiki
+[How to install dyMotd?]:         http://github.com/iptoux/dyMotd/wiki/How-to-install-dyMotd%3F
 [Pull Request]:         https://github.com/iptoux/dyMotd/pulls
